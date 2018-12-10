@@ -1,7 +1,7 @@
 # Create a user interface with Java GUI to manipulate data entry job in MySQL with AWS
 
 
-![alt text](/img/Select_menu.png)
+![alt text](Select_menu.png)
 
 ### user could entry the data
 
