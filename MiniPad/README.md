@@ -1,9 +1,9 @@
 # Code a Text editor from scratch with Java
 
-![alt text](/img/about.png)
+![alt text](../img/about.png)
 
 
-![alt text](/img/main.png)
+![alt text](../img/main.png)
 
 
 ![alt text](/img/edit.png)
